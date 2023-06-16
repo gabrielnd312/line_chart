@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-gabrielduarte-red.svg)](https://www.linkedin.com/in/gabriel-duarte-671074146/)
 # line_chart
 <p align="center">
-  <img src="line_chart_ph.jpg", width=70% >
+  <img src="chart_hologram.jpg.avif", width=70% >
 </p>
 
 **Hello!**
