@@ -1,16 +1,16 @@
 [![author](https://img.shields.io/badge/author-gabrielduarte-red.svg)](https://www.linkedin.com/in/gabriel-duarte-671074146/)
 # line_chart
 <p align="center">
-  <img src="wordcloud_ab", width=70% >
+  <img src="chart_hologram.jpg.avif", width=70% >
 </p>
 
 **Hello!**
-Here we will know the graph of the "**Word Cloud**" type.
+In this project, we will explore the fundamentals of creating graphs using **Matplotlib**, one of the most popular and powerful tools for data visualization in Python.
 
-Very useful in evaluating strings and text datasets, where the objective is to find the most common word, phrase, number or letter in the database.
+Data visualization plays a crucial role in data analysis and communicating important information. Well-designed graphs can help identify patterns, trends, and hidden insights in the data, as well as facilitate understanding and effective communication of that information.
 
+Matplotlib is a widely used library in Python for creating static plots, animations, and interactive visualizations. With its simple and intuitive syntax, Matplotlib offers a wide range of chart types, from line and bar graphs to scatter plots and pie charts.
 
-For this, after cleaning the data and filtering, these words are counted and the graph is created where the **most mentioned word** has a larger size, and less mentioned words decrease in this proportion.
+In this project, we will explore the line chart with Matplotlib and also cover some customization techniques to make our graphs more informative and visually appealing. Throughout the project, you will learn how to create basic plots, add titles, labels, and legends, customize colors and styles, create subplots, and much more.
 
-
-To learn a little more about this, as well as a real example and customization methods, please see the **Medium** article and the full code documentation on **Google Colab**.
+This project is aimed at both beginners who are starting to explore data visualization and those who want to enhance their skills and knowledge in Python and the Matplotlib library.
